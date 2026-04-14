@@ -16,13 +16,13 @@ Welcome to my networking lab repository! This project serves as a comprehensive 
 * **Objective:** Design a scalable OSPF network with multiple areas to optimize routing tables.
 * **Key Tasks:** Configured ABRs, implemented route summarization, and verified adjacencies.
 * **Status:** ✅ Complete
-* [View Lab Files](./path-to-folder)
+* [View Lab Files](./OSPF%20ROUTING/)
 
 ### 2. Layer 2 Security & VLAN Segmentation
 * **Objective:** Secure a campus switch network against common attacks.
 * **Key Tasks:** Implemented Port Security, disabled unused ports, and configured management VLANs.
 * **Status:** ✅ Complete
-* [View Lab Files](./path-to-folder)
+* [View Lab Files](./SSH%20configuration/)
 
 ---
 
